@@ -1,5 +1,5 @@
 # NLPCC-2020-Task-3-AutoIE
-## NLPCC 2020 Task 季军技术方案及实现
+## NLPCC 2020 Task3 基于不完全标注数据集的信息抽取（NER） 季军技术方案及实现
                                                            
 ## requirements
 
